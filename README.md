@@ -67,7 +67,7 @@ No third-party libraries are required. If you’re using a specific compiler (GC
 
 1. **Clone** or download this repository:
    ```bash
-   git clone https://github.com/YourUsername/VirtualLeague.git
+   git clone https://github.com/elifpulukcu/VirtualLeague.git
    cd VirtualLeague
    ```
 2. **Compile** the sources (example with g++):
@@ -136,6 +136,18 @@ Contributions are welcome! If you’d like to propose changes:
 2. Create a **new branch** (`feature/new-idea`).  
 3. **Commit** your changes and **push** to your fork.  
 4. Open a **Pull Request** describing the modifications.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+---
+
+## Author
+
+Developed by [Elif Pulukçu](https://github.com/elifpulukcu).
 
 ---
 
